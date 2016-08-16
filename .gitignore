@@ -1,0 +1,8 @@
+/Debug/
+/Release/
+GfyKeys_Debug.*
+*.iobj
+*.ipdb
+.vs
+*.VC.db
+*.VC.VC.opendb
